@@ -1,5 +1,3 @@
-﻿///https://github.com/Julia20011974/AaSD
-
 package lab8;
 
 import java.util.Scanner;
